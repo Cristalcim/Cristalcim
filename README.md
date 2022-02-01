@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**Cristalcim/Cristalcim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Cristalcim {
+    constructor(options) {
+        this.name = "Özgür",
+        this.discord.tag = "Cristâl#1984",
+        this.length = "180",
+        this.sex = "man",
+        this.weight = "96",
+        this.age = "18"
+    };
+}
+module.exports = Cristalcim
