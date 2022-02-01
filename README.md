@@ -1,11 +1,6 @@
-class Cristalcim {
-    constructor(options) {
-        this.name = "Özgür",
-        this.discord.tag = "Cristâl#1984",
-        this.length = "180",
-        this.sex = "man",
-        this.weight = "96",
-        this.age = "18"
-    };
-}
-module.exports = Cristalcim
+Merhaba ben Cristal yani Özgür bana aşağıda yazdığım yerlerden ulaşabilirsiniz.
+
+Discord Hesabım: Cristâl#1984
+İnstagram Hesabım: cristalcim
+
+Discord Sunucum - https://discord.gg/rade
