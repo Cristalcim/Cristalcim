@@ -1,11 +1,11 @@
-class Cristalcim {\n
-    constructor(options) {\n
-        this.name = "Özgür",\n
-        this.discord.tag = "Cristâl#1984",\n
-        this.length = "180",\n
-        this.sex = "man",\n
-        this.weight = "96",\n
-        this.age = "18"\n
-    };\n
-}\n
+class Cristalcim {
+    constructor(options) {
+        this.name = "Özgür",
+        this.discord.tag = "Cristâl#1984",
+        this.length = "180",
+        this.sex = "man",
+        this.weight = "96",
+        this.age = "18"
+    };
+}
 module.exports = Cristalcim
