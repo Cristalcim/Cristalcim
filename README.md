@@ -1,6 +1,4 @@
 Merhaba ben Cristal yani Özgür bana aşağıda yazdığım yerlerden ulaşabilirsiniz.
 
-Discord Hesabım: Cristâl ⸸#0204
+Discord Hesabım: Cristal#1984
 İnstagram Hesabım: cristalcim
-
-Discord Sunucum - https://discord.gg/rade
