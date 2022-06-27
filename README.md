@@ -1,4 +1,3 @@
-Merhaba ben Cristal yani Özgür bana aşağıda yazdığım yerlerden ulaşabilirsiniz.
+Merhaba ben Cristal bana aşağıda yazdığım yerlerden ulaşabilirsiniz.
 
-Discord Hesabım: Cristal#1984
-İnstagram Hesabım: cristalcim
+Discord Hesabım: Cristal ✰#6823
