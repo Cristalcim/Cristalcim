@@ -1,3 +1,3 @@
 Merhaba ben Cristal bana aşağıda yazdığım yerlerden ulaşabilirsiniz.
 
-Discord Hesabım: Cristal ✰#6823
+Discord Hesabım: Cristal ✰#0001
